@@ -48,3 +48,25 @@ Nieuwe onderwerpen (niet behandelt in de lab)
 Leesvoer: [Perp-Guide](https://github.com/DevOps-Academy-Org/dca-prep-guide#domain-4-networking-15-of-exam)
 
 Lab: [Docker Networking Hands-on Lab](https://training.play-with-docker.com/docker-networking-hol/)
+
+
+### Domain 5: Security
+
+Dit domain telt voor 15% mee. Er is geen lab en als je nog geen ervaring met UCP hebt, dan zal het meeste nieuw voor je zijn.
+
+Nieuwe onderwerpen:
+- eigenlijk alles...
+
+Leesvoer: [Perp-Guide](https://github.com/DevOps-Academy-Org/dca-prep-guide#domain-5-security-15-of-exam)
+
+Lab: Geen
+
+
+### domain 6: Storage and Volumes
+
+Dit domain telt voor 10% mee. Er is een lab over volumes, maar die is erg basic en dekt eigenlijk alleen `Describe how volumes are used with Docker for persistent storage` van de perp-guide. De andere items kan je het beste even doorlezen.
+
+
+Leesvoer: [Perp-Guide](https://github.com/DevOps-Academy-Org/dca-prep-guide#domain-6-storage-and-volumes-10-of-exam)
+
+Lab: [Docker Volumes](https://training.play-with-docker.com/docker-volumes/)
