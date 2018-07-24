@@ -1,5 +1,3 @@
-[TOC]
-
 # DCA Workshop
 
 Voor de DCA workshop maken we gebruikt van deze [prep guide](https://github.com/DevOps-Academy-Org/dca-prep-guide).
