@@ -29,8 +29,7 @@ Lab: Geen
 
 ### Domain 3: Installation and Configuration
 
-Dit domein telt voor 15% mee in het examen en bevat een aantal zaken die je al eerder hebt gezien in Domain in. Nieuwe onderwerpen zijn de EE onderdelen Docker EE, UCP en DTR. Omdat we op dit moment niet beschikken over een bruikbare licentie kunnen we hier geen lab voor ontwikkelen. Dit betekend domweg leren van de prep guide voor die onderdelen.
-
+Dit domein telt voor 15% mee in het examen en bevat een aantal zaken die je al eerder hebt gezien in Domain in. Nieuwe onderwerpen zijn de EE onderdelen Docker EE Engine, UCP en DTR. Omdat we op dit moment niet beschikken over een bruikbare licentie kunnen we geen lab ontwikkelen voor de Engine. Dit betekend domweg leren van de prep guide. UCP en DTR zijn te installeren op een eigen omgeving. De Docker for Desktop (Mac/Win) is standaard niet echt geschikt dus is het beter om een eigen omgeving op te spinnen op bijvoorbeeld AWS of Digital Ocean. Er is eventueel ook een kleine demo setup beschikbaar.
 
 ## Onderwerpen tweede avond
 
@@ -45,7 +44,7 @@ Nieuwe onderwerpen (niet behandelt in de lab)
 - Understand and describe the types of traffic that flow between the Docker engine registry and UCP controllers
 - Describe the difference between host and ingress port publishing mode
 
-Leesvoer: [Perp-Guide](https://github.com/DevOps-Academy-Org/dca-prep-guide#domain-4-networking-15-of-exam)
+Leesvoer: [Prep-Guide](https://github.com/DevOps-Academy-Org/dca-prep-guide#domain-4-networking-15-of-exam)
 
 Lab: [Docker Networking Hands-on Lab](https://training.play-with-docker.com/docker-networking-hol/)
 
@@ -57,7 +56,7 @@ Dit domain telt voor 15% mee. Er is geen lab en als je nog geen ervaring met UCP
 Nieuwe onderwerpen:
 - eigenlijk alles...
 
-Leesvoer: [Perp-Guide](https://github.com/DevOps-Academy-Org/dca-prep-guide#domain-5-security-15-of-exam)
+Leesvoer: [Prep-Guide](https://github.com/DevOps-Academy-Org/dca-prep-guide#domain-5-security-15-of-exam)
 
 Lab: Geen
 
@@ -67,6 +66,6 @@ Lab: Geen
 Dit domain telt voor 10% mee. Er is een lab over volumes, maar die is erg basic en dekt eigenlijk alleen `Describe how volumes are used with Docker for persistent storage` van de perp-guide. De andere items kan je het beste even doorlezen.
 
 
-Leesvoer: [Perp-Guide](https://github.com/DevOps-Academy-Org/dca-prep-guide#domain-6-storage-and-volumes-10-of-exam)
+Leesvoer: [Prep-Guide](https://github.com/DevOps-Academy-Org/dca-prep-guide#domain-6-storage-and-volumes-10-of-exam)
 
 Lab: [Docker Volumes](https://training.play-with-docker.com/docker-volumes/)
