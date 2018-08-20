@@ -53,8 +53,12 @@ Lab: [Docker Networking Hands-on Lab](https://training.play-with-docker.com/dock
 
 Dit domain telt voor 15% mee. Er is geen lab en als je nog geen ervaring met UCP hebt, dan zal het meeste nieuw voor je zijn.
 
-Nieuwe onderwerpen:
-- eigenlijk alles...
+Ze hebben de security onderwerpen in kleine stukjes verdeeld, zodat het een volwaardig domein lijkt. Dat valt allemaal reuze mee. Dit zijn de interesant punten:
+
+- Describe the process of signing an image
+- Configure RBAC in UCP
+- Demonstrate creation of UCP client bundles
+- Describe default engine security
 
 Leesvoer: [Prep-Guide](https://github.com/DevOps-Academy-Org/dca-prep-guide#domain-5-security-15-of-exam)
 
